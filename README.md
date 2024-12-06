@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there come take a look 🛂
+
+### Tech Stack:
+- 💻 Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+- ⚙️ Frameworks: ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+- 🔧 Tools: ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git) ![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
 
 <!--
 **RamMG21/RamMG21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
