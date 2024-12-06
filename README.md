@@ -6,13 +6,9 @@
 - 🔧 Tools: ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git) ![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
 
 ### ⚙️ &nbsp;GitHub Analytics
+### 📊 Mis estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RamMG21&show_icons=true&theme=radical)
 
-<p align="center">
-<a href="https://github.com/RamMG21">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 <!--
 **RamMG21/RamMG21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
