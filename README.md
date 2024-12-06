@@ -7,7 +7,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 ### 📊 Mis estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RamMG21&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RamMG21&show_icons=true&theme=tokyonight)
 
 <!--
 **RamMG21/RamMG21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
